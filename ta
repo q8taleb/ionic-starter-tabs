@@ -1,0 +1,14 @@
+i have problum for apk android pleas help me
+Total time: 1.025 secs
+Error: /Users/ta/huda/platforms/android/gradlew: Command failed with exit code 1 Error output:
+FAILURE: Build failed with an exception.
+
+* Where:
+Build file '/Users/ta/huda/platforms/android/build.gradle' line: 287
+
+* What went wrong:
+A problem occurred evaluating root project 'android'.
+> Keystore file does not exist: /Users/ta/huda/platforms/android/../../..\android.keystore
+
+* Try:
+Run with --stacktrace option to get the stack trace. Run with --info or --debug option to get more log output.
